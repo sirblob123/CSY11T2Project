@@ -85,7 +85,6 @@ The `SQL_BLOCK` comments in `DatabaseManager.java` match the section headers in
 ---
 
 ## Notes on AI Usage
-(Fill this in for Criterion C as required by the rubric.)
 
 - The GUI layout and colour palette were assisted by Claude.
 - All SQL statements in `sql/queries.sql` were written manually.
